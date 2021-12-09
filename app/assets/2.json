@@ -1,0 +1,24 @@
+{
+    "name": "Bit 003",
+    "symbol": "",
+    "description": "A limited edition on-chain NFT experiment, spun out from Nouns DAO.",
+    "image": "2.png",
+    "collection": {
+        "name": "Toon Bits",
+        "family": "Toon"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "73u2sLzS2fPUU2xvkbeGjmjUWzpXj59D2cVxDHpbFTUR",
+                "share": 100
+            }
+        ]
+    }
+}
