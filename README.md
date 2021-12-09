@@ -12,3 +12,5 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 ### Questions?
 This project was initially forked from a buildspace 🦄 source code - so if you have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e) and link your Discord account so you can get access to helpful channels and members of the buildspace team!
+
+Forked from repository: https://github.com/buildspace/nft-drop-starter-project
